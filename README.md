@@ -10,3 +10,6 @@ rus
 
 object oriented 
 
+
+object oriented programming 
+
