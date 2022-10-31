@@ -1,7 +1,7 @@
 num = 29
 
 # To take input from the user
-#num = int(input("Enter a number: "))
+#num = int(input("Enter a number: "))#input function  added
 
 # define a flag variable
 flag = False
@@ -17,7 +17,8 @@ if num > 1:
             break
 
 # check if flag is True
-if flag:
+if flag:#condition added
     print(num, "is not a prime number")
 else:
     print(num, "is a prime number")
+    
