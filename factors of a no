@@ -1,3 +1,4 @@
+#Welcome to hackotober fest
 #this is a python code to find factors of a number
 def print_factors(x):
    print("The factors of",x,"are:")
