@@ -1,5 +1,6 @@
-num = int(input("Enter A Number: "))#Enter a Value to Check whether the number is Odd or Even
-if (num % 2) == 0:#Condition Initalized if remainder is 0
-   print("{0} Is Even".format(num))#Display if the given value is Even
+print("welcome to Hactober fest 2022")
+n= int(input("Enter A Number= "))#Enter a Value to Check whether the number is Odd or Even
+if (n % 2) == 0:#Condition Initalized if remainder is 0
+   print("{0} Is Even".format(n))#Display if the given value is Even
 else:#if the value doesn't obey the condition
-   print("{0} Is Odd".format(num))#Display if the given value is Odd
+   print("{0} Is Odd".format(n))#Display if the given value is Odd
